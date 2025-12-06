@@ -95,7 +95,7 @@ jupyter notebook Dashboard/Dashboard.ipynb
 
 ![Temperature Monitoring](Outputs/Temp-plot.png)
 ![Rumination Analysis](Outputs/Rumination-plot.png)
-![Activity Tracking](Outputs/Activity-plot.png)
+![Activity Tracking](Outputs/Activity.png)
 
 ## Contributing
 
