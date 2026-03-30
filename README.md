@@ -12,15 +12,6 @@ calf-health-dashboard/
 ├── Dashboard/
 │   └── Dashboard.ipynb              # Main dashboard application
 │
-├── models/
-│   └── saved_models/
-│       ├── catboost_fever_model_6h.joblib
-│       └── LSTM_model.keras
-│
-├── scripts/
-│   ├── catBoostModel.ipynb          # CatBoost model training
-│   └── LSTM_model.ipynb             # LSTM model training
-│
 ├── Outputs/
 │   ├── Activity-plot.png
 │   ├── Rumination-plot.png
