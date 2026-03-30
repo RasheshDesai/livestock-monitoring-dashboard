@@ -29,11 +29,7 @@ calf-health-dashboard/
 - **Python**: Core programming language for data processing and dashboard development
 - **Plotly Dash**: Framework used to build the interactive web dashboard
 - **Pandas & NumPy**: Data manipulation and numerical computing
-- **Scikit-learn & CatBoost**: Machine learning models for health prediction
 - **Matplotlib & Plotly**: Data visualization libraries for creating charts and graphs
-- **Joblib**: Model serialization and loading
-- **Keras**: Deep learning framework for building and training LSTM models
-
 
 **📊 Multi-Metric Health Monitoring**
 - **Temperature Analysis**: Real-time body temperature tracking with heat stress detection, fever classification (heat stress, non-heat, recurrent), and THI (Temperature-Humidity Index) correlation
